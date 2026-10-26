@@ -1,0 +1,22 @@
+{
+  "name": "maricarmendev",
+  "owner": {
+    "name": "maricarmendev",
+    "url": "https://maricarmen.dev"
+  },
+  "description": "maricarmendev's skills for taking work from an issue to a pull request, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "maricarmendev-skills",
+      "source": "./",
+      "description": "Agent skills from issue to pull request: setup, grounding, parallel lanes, diff review and manual test plans.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "issues",
+        "pull-requests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "maricarmendev-skills",
+  "version": "0.1.0",
+  "description": "Agent skills that take work from an issue to a pull request: set up the repo, ground the issue, find what can run in parallel, review the diff and write the manual test plan. Works with GitHub Issues, Linear, Jira, markdown issues in the repo, or no tracker at all.",
+  "author": {
+    "name": "maricarmendev",
+    "url": "https://maricarmen.dev"
+  },
+  "homepage": "https://maricarmen.dev",
+  "repository": "https://github.com/maricarmendev/skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "issues",
+    "pull-requests",
+    "worktrees",
+    "code-review",
+    "testing"
+  ],
+  "skills": []
+}
